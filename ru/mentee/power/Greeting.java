@@ -1,4 +1,4 @@
-public class Greeting {
+
     package ru.mentee.power;
 
     public class Greeting {
@@ -9,4 +9,4 @@ public class Greeting {
             System.out.println(getGreeting("Java разработчик"));
         }
     }
-}
+
